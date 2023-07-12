@@ -5,8 +5,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codewith_muhilan/) 
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/webspace4u)
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/juliocodes) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@juliocodes)
 
 
 # 💻 Tech Stack:
