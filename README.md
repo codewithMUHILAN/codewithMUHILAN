@@ -15,30 +15,30 @@ Explore my open-source code for posts and projects on <a href="https://github.co
 <br />
 <br />
 
-🎨 Lightswind UI
+<h1>🎨 Lightswind UI</h1>
 <br />
 
 Lightswind UI is my comprehensive library for frontend developers, featuring:
 
-Core Components: Buttons, forms, and inputs.
-Application UI: Dashboards, modals, and cards.
-Responsive Layouts: Web pages and admin panels.
-Animated Components: GSAP-powered seamless animations.
-🚀 Installation
-bash
-Copy code
-npm install lightswind-ui
-📘 Documentation
+Core Components: Buttons, forms, and inputs.<br />
+Application UI: Dashboards, modals, and cards.<br />
+Responsive Layouts: Web pages and admin panels.<br />
+Animated Components.<br />
+🚀 Installation<br />
+<br />
+npm install lightswind-ui<br /><br />
+📘 Documentation<br />
 <a href="https://your-documentation-link.com" target="_blank">Explore full documentation here</a>.
-
+<br /><br />
 🔥 GitHub Stats
-<div align="center" style="margin: 20px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmuhilan&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;" /> <img src="https://github-readme-stats.vercel.app/api?username=codewithmuhilan&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;" /> </div>
-🌟 Achievements
-💻 Built and shared 50+ open-source projects.
-📚 Contributed to 10+ repositories.
-🚀 Reached 5,000+ engagements on Instagram tech posts.
-
-📊 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
-🚀 Let's Build Together!
+<div align="center" style="margin: 20px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmuhilan&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;" /> <img src="https://github-readme-stats.vercel.app/api?username=codewithmuhilan&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;" /> </div><br />
+<br />
+<h1>🌟 Achievements</h1> <br />
+💻 Built and shared 50+ open-source projects.<br />
+📚 Contributed to 10+ repositories.<br />
+🚀 Reached 100M+ engagements on Instagram tech posts.<br />
+<br />
+📊 Visitor Count<br />
+[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)<br /><br />
+🚀 Let's Build Together!<br />
 💌 Feel free to connect via <a href="https://instagram.com" target="_blank">Instagram</a> or explore my <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
