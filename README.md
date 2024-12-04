@@ -32,6 +32,6 @@ npm install lightswind-ui
 🚀 Reached 5,000+ engagements on Instagram tech posts.
 
 📊 Visitor Count
-<img src="https://profile-counter.glitch.me/codewithmuhilan/count.svg" alt="Visitor Count" />
+[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
 🚀 Let's Build Together!
 💌 Feel free to connect via <a href="https://instagram.com" target="_blank">Instagram</a> or explore my <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
