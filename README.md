@@ -39,6 +39,7 @@ npm install lightswind-ui<br /><br />
 🚀 Reached 100M+ engagements on Instagram tech posts.<br />
 <br />
 📊 Visitor Count<br />
-[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)<br /><br />
+[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
+<br /><br />
 🚀 Let's Build Together!<br />
 💌 Feel free to connect via <a href="https://instagram.com" target="_blank">Instagram</a> or explore my <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
