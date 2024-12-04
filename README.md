@@ -2,11 +2,22 @@
 Full-Stack Developer | Content Creator | Tech Enthusiast
 
 🎥 Social Media & Open Source
-Sharing insightful tech posts and reels on <a href="https://instagram.com" target="_blank">Instagram</a>.
-Explore my open-source code for posts and projects on <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
+<p>
+  Sharing insightful tech posts and reels on 
+  <a href="https://www.instagram.com/codewith_muhilan/" target="_blank">Instagram</a>. 
+</p>
+<p>
+  Explore my open-source code for posts and projects on 
+  <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
+</p>
+<p>
+  Watch engaging tech videos and tutorials on 
+  <a href="https://www.youtube.com/@codewith_muhilan" target="_blank">YouTube</a>.
+</p>
+
 🌐 Connect With Me
-<a href="mailto:youremail@example.com" target="_blank">💌 Email Me</a>
-<a href="https://instagram.com" target="_blank">📷 Instagram</a> | <a href="https://linkedin.com" target="_blank">💼 LinkedIn</a> | <a href="https://twitter.com" target="_blank">🐦 Twitter</a>
+<a href="mailto:muhilan6601@outlook.com" target="_blank">💌 Email Me</a>
+<a href="https://www.instagram.com/codewith_muhilan/" target="_blank">📷 Instagram</a>
 
 <br />
 💻 Tech Stack
@@ -28,7 +39,7 @@ Animated Components.<br />
 <br />
 npm install lightswind-ui<br /><br />
 📘 Documentation<br />
-<a href="https://your-documentation-link.com" target="_blank">Explore full documentation here</a>.
+<a href="https://lightswind.com/docs" target="_blank">Explore full documentation here</a>.
 <br /><br />
 🔥 GitHub Stats
 <div align="center" style="margin: 20px 0;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmuhilan&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;" /> <img src="https://github-readme-stats.vercel.app/api?username=codewithmuhilan&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;" /> </div><br />
@@ -42,4 +53,4 @@ npm install lightswind-ui<br /><br />
 [![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
 <br /><br />
 🚀 Let's Build Together!<br />
-💌 Feel free to connect via <a href="https://instagram.com" target="_blank">Instagram</a> or explore my <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
+💌 Feel free to connect via <a href="[https://instagram.com](https://www.instagram.com/codewith_muhilan/)" target="_blank">Instagram</a> or explore my <a href="https://github.com/codewithmuhilan" target="_blank">GitHub</a>.
